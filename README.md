@@ -9,10 +9,10 @@
   </tr>
   <tr>
     <td>
-      <img src="./Videos/orca/all_v_t_pairs/robot_visualization_v0_t1.gif" width="400"/>
+      <img src="./all_v_t_pairs/robot_visualization_v0_t1.gif" width="400"/>
     </td>
     <td>
-      <img src="./Videos/orca/all_v_t_pairs/robot_visualization_v0_t2.gif" width="400"/>
+      <img src="./all_v_t_pairs/robot_visualization_v0_t2.gif" width="400"/>
     </td>
   </tr>
 </table>
@@ -24,10 +24,10 @@
   </tr>
   <tr>
     <td>
-      <img src="./Videos/orca/all_v_t_pairs/robot_visualization_v1_t0.gif" width="400"/>
+      <img src="./all_v_t_pairs/robot_visualization_v1_t0.gif" width="400"/>
     </td>
     <td>
-      <img src="./Videos/orca/all_v_t_pairs/robot_visualization_v2_t1.gif" width="400"/>
+      <img src="./all_v_t_pairs/robot_visualization_v2_t1.gif" width="400"/>
     </td>
   </tr>
 </table>
